@@ -1,0 +1,17 @@
+/*estilos utilizando elementos html*/
+h1 {
+    /*propiedades*/
+    text-align: center;
+}
+
+h2{
+    color: rgb(255, 127, 253);
+
+}
+/*selector de clase*/
+.fuente-especial{
+    color: red;
+}
+li.fuente-especial{
+    color: blue;
+}
