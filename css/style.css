@@ -1,17 +1,16 @@
 /*estilos utilizando elementos html*/
+body{
+    background-color: wheat
+}
+
 h1 {
     /*propiedades*/
     text-align: center;
+    color: brown;
 }
 
 h2{
-    color: rgb(255, 127, 253);
+    color: rgb(33, 29, 33);
 
 }
 /*selector de clase*/
-.fuente-especial{
-    color: red;
-}
-li.fuente-especial{
-    color: blue;
-}
