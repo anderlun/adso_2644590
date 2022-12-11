@@ -1,16 +1,31 @@
 /*estilos utilizando elementos html*/
 body{
     background-color: wheat
+    
+}
+body{
+    background-image: url("../imagenes/fondo2.jpg");
 }
 
 h1 {
     /*propiedades*/
     text-align: center;
-    color: brown;
+    color: rgb(252, 59, 59);
+    font-size: 
 }
 
 h2{
-    color: rgb(33, 29, 33);
+    color: rgb(253, 233, 55);
+    font-size: 
 
 }
 /*selector de clase*/
+
+p{
+    font-size: 20px;
+    color: aqua;
+}
+a{
+    color: antiquewhite;
+    font-size: 20px;
+}
